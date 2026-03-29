@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main colors - Customize these! -->
+    <color name="background">#1a1a2e</color>
+    <color name="dock_background">#16213e</color>
+    <color name="search_background">#0f3460</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#b0b0b0</color>
+    
+    <!-- Accent colors -->
+    <color name="accent">#e94560</color>
+    <color name="accent_light">#ff6b6b</color>
+    
+    <!-- Icon background -->
+    <color name="icon_background">#1a1a2e</color>
+</resources>
