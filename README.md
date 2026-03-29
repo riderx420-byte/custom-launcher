@@ -104,3 +104,4 @@ custom-launcher/
 ## License
 
 MIT License - Feel free to modify and distribute!
+# Build triggered
